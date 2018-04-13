@@ -1,9 +1,9 @@
 # Site settings
 title: YZ Blog
-SEOTitle: YZ的博客 | Hux Blog
+SEOTitle: YZ的博客 | YZ Blog
 header-img: img/home-bg.jpg
 email: raymondjoe16@gmail.com
-description: "Software Engineer，UX Designer | 这里是 @coldray 的个人博客，与你一起发现更大的世界。"
+description: "Software Engineer，Sports, Music, Games | 这里是 @coldray 的个人博客，与你一起发现更大的世界。"
 keyword: ""
 url: "https://coldray.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -67,7 +67,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "Coding，Body Building，<br>Life is short and simple"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
